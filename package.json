@@ -1,7 +1,8 @@
 {
   "name": "@bradleyburgess/eleventy-plugin-img-figcaptions",
   "version": "1.0.0",
-  "description": "HTML transform plugin to easily add semantic captions",
+  "description": "An Eleventy HTML transform plugin to easily add semantic captions to images",
+  "homepage": "https://github.com/bradleyburgess/eleventy-plugin-img-figcaptions",
   "main": ".eleventy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,8 +16,18 @@
     "html",
     "figcaption"
   ],
-  "author": "Bradley Burgess",
+  "author": {
+    "name": "Bradley Burgess",
+    "url": "https://github.com/bradleyburgess"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyburgess/eleventy-plugin-img-figcaptions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bradleyburgess/eleventy-plugin-img-figcaptions/issues"
+  },
   "dependencies": {
     "@bradleyburgess/img-figcaptions": "^1.0.0"
   }
