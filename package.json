@@ -1,6 +1,6 @@
 {
   "name": "@bradleyburgess/eleventy-plugin-img-figcaptions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Eleventy HTML transform plugin to easily add semantic captions to images",
   "homepage": "https://github.com/bradleyburgess/eleventy-plugin-img-figcaptions",
   "main": ".eleventy.js",
@@ -29,6 +29,6 @@
     "url": "https://github.com/bradleyburgess/eleventy-plugin-img-figcaptions/issues"
   },
   "dependencies": {
-    "@bradleyburgess/img-figcaptions": "^1.1.0"
+    "@bradleyburgess/img-figcaptions": "^1.1.2"
   }
 }
